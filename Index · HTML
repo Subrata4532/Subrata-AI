@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subrata AI - Your All-in-One Digital Platform</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-wrapper">
+                <div class="logo">
+                    <h2>Subrata AI</h2>
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#features">Features</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+                <div class="nav-buttons">
+                    <button class="btn-secondary">Sign In</button>
+                    <button class="btn-primary">Get Started</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1 class="hero-title">Everything You Need,<br><span class="gradient-text">All in One Place</span></h1>
+                    <p class="hero-subtitle">Subrata AI brings together e-commerce, education, and essential services - your complete digital ecosystem for modern living and learning.</p>
+                    <div class="hero-buttons">
+                        <button class="btn-primary btn-large">Start Your Journey</button>
+                        <button class="btn-outline btn-large">Learn More</button>
+                    </div>
+                    <div class="hero-stats">
+                        <div class="stat">
+                            <h3>1M+</h3>
+                            <p>Active Users</p>
+                        </div>
+                        <div class="stat">
+                            <h3>500K+</h3>
+                            <p>Products</p>
+                        </div>
+                        <div class="stat">
+                            <h3>1000+</h3>
+                            <p>Courses</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-image">
+                    <div class="floating-card card-1">
+                        <div class="card-icon">🛍️</div>
+                        <p>Shop Anything</p>
+                    </div>
+                    <div class="floating-card card-2">
+                        <div class="card-icon">📚</div>
+                        <p>Learn & Grow</p>
+                    </div>
+                    <div class="floating-card card-3">
+                        <div class="card-icon">🚀</div>
+                        <p>Scale Up</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="services">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Our <span class="gradient-text">Services</span></h2>
+                <p class="section-subtitle">Three powerful platforms united under one roof</p>
+            </div>
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="service-icon">🛒</div>
+                    <h3>E-Commerce Marketplace</h3>
+                    <p>Shop millions of products at unbeatable prices. From fashion to electronics, find everything you need with seamless delivery.</p>
+                    <ul class="service-features">
+                        <li>✓ 10 Lakh+ Products</li>
+                        <li>✓ Best Prices Guaranteed</li>
+                        <li>✓ Fast Delivery</li>
+                        <li>✓ Secure Payments</li>
+                    </ul>
+                    <button class="btn-service">Explore Products</button>
+                </div>
+                <div class="service-card featured">
+                    <div class="featured-badge">Most Popular</div>
+                    <div class="service-icon">🎓</div>
+                    <h3>Education Platform</h3>
+                    <p>Master competitive exams with expert-led courses. From UPSC to Banking, get comprehensive preparation at your fingertips.</p>
+                    <ul class="service-features">
+                        <li>✓ 1000+ Expert Courses</li>
+                        <li>✓ Live Classes</li>
+                        <li>✓ Mock Tests & Analysis</li>
+                        <li>✓ Study Materials</li>
+                    </ul>
+                    <button class="btn-service">Start Learning</button>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🌐</div>
+                    <h3>Digital Services</h3>
+                    <p>Access powerful tools and services for your daily needs. From productivity to entertainment, we've got you covered.</p>
+                    <ul class="service-features">
+                        <li>✓ Cloud Storage</li>
+                        <li>✓ AI-Powered Tools</li>
+                        <li>✓ Business Solutions</li>
+                        <li>✓ 24/7 Support</li>
+                    </ul>
+                    <button class="btn-service">Discover Services</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Why Choose <span class="gradient-text">Subrata AI?</span></h2>
+                <p class="section-subtitle">Experience the difference with our cutting-edge features</p>
+            </div>
+            <div class="features-grid">
+                <div class="feature-item">
+                    <div class="feature-icon">⚡</div>
+                    <h4>Lightning Fast</h4>
+                    <p>Optimized performance for seamless browsing and shopping experience</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">🔒</div>
+                    <h4>100% Secure</h4>
+                    <p>Bank-grade security to protect your data and transactions</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">🤖</div>
+                    <h4>AI-Powered</h4>
+                    <p>Smart recommendations tailored to your preferences</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">📱</div>
+                    <h4>Mobile First</h4>
+                    <p>Perfectly optimized for all devices and screen sizes</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">💰</div>
+                    <h4>Best Prices</h4>
+                    <p>Competitive pricing with exclusive deals and discounts</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">🎯</div>
+                    <h4>Expert Guidance</h4>
+                    <p>Learn from industry experts and top educators</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Categories Section -->
+    <section class="categories">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Popular <span class="gradient-text">Categories</span></h2>
+                <p class="section-subtitle">Explore our most loved categories</p>
+            </div>
+            <div class="categories-grid">
+                <div class="category-card">
+                    <div class="category-img">👗</div>
+                    <h4>Fashion</h4>
+                    <p>50K+ Products</p>
+                </div>
+                <div class="category-card">
+                    <div class="category-img">📱</div>
+                    <h4>Electronics</h4>
+                    <p>30K+ Products</p>
+                </div>
+                <div class="category-card">
+                    <div class="category-img">🏠</div>
+                    <h4>Home & Living</h4>
+                    <p>40K+ Products</p>
+                </div>
+                <div class="category-card">
+                    <div class="category-img">📖</div>
+                    <h4>UPSC Prep</h4>
+                    <p>200+ Courses</p>
+                </div>
+                <div class="category-card">
+                    <div class="category-img">💼</div>
+                    <h4>Banking Exams</h4>
+                    <p>150+ Courses</p>
+                </div>
+                <div class="category-card">
+                    <div class="category-img">🎯</div>
+                    <h4>SSC & Railways</h4>
+                    <p>180+ Courses</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="about-content">
+                <div class="about-text">
+                    <h2>About <span class="gradient-text">Subrata AI</span></h2>
+                    <p>We're revolutionizing how people shop, learn, and grow in the digital age. Subrata AI is more than just a platform - it's your complete digital companion.</p>
+                    <p>Our mission is to empower millions by providing access to quality products, world-class education, and essential digital services - all under one roof.</p>
+                    <div class="about-stats">
+                        <div class="about-stat">
+                            <h3>2024</h3>
+                            <p>Founded</p>
+                        </div>
+                        <div class="about-stat">
+                            <h3>100+</h3>
+                            <p>Team Members</p>
+                        </div>
+                        <div class="about-stat">
+                            <h3>50+</h3>
+                            <p>Cities Covered</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="about-image">
+                    <div class="about-card">
+                        <h3>Our Vision</h3>
+                        <p>To become India's most trusted all-in-one digital platform</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Ready to Get Started?</h2>
+                <p>Join millions of users who trust Subrata AI for their shopping, learning, and digital needs</p>
+                <div class="cta-buttons">
+                    <button class="btn-primary btn-large">Create Free Account</button>
+                    <button class="btn-outline-white btn-large">Download App</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Get In <span class="gradient-text">Touch</span></h2>
+                <p class="section-subtitle">We'd love to hear from you</p>
+            </div>
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <div class="contact-icon">📧</div>
+                        <h4>Email Us</h4>
+                        <p>support@subrataai.com</p>
+                    </div>
+                    <div class="contact-item">
+                        <div class="contact-icon">📞</div>
+                        <h4>Call Us</h4>
+                        <p>+91 1800-123-4567</p>
+                    </div>
+                    <div class="contact-item">
+                        <div class="contact-icon">📍</div>
+                        <h4>Visit Us</h4>
+                        <p>Kolkata, West Bengal, India</p>
+                    </div>
+                </div>
+                <div class="contact-form">
+                    <input type="text" placeholder="Your Name" class="form-input">
+                    <input type="email" placeholder="Your Email" class="form-input">
+                    <textarea placeholder="Your Message" class="form-textarea" rows="5"></textarea>
+                    <button class="btn-primary btn-large">Send Message</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Subrata AI</h3>
+                    <p>Your all-in-one digital platform for shopping, learning, and growth.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#services">Services</a></li>
+                        <li><a href="#features">Features</a></li>
+                        <li><a href="#about">About</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Services</h4>
+                    <ul>
+                        <li><a href="#">Shopping</a></li>
+                        <li><a href="#">Education</a></li>
+                        <li><a href="#">Digital Tools</a></li>
+                        <li><a href="#">Support</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Connect</h4>
+                    <ul>
+                        <li><a href="#">Facebook</a></li>
+                        <li><a href="#">Twitter</a></li>
+                        <li><a href="#">Instagram</a></li>
+                        <li><a href="#">LinkedIn</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Subrata AI. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
